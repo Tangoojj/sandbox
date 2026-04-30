@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 09:49 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.1.apk) `18.1MB`
+
+- 📱 [mhrv-rs-android-armeabi-v7a-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-armeabi-v7a-v1.9.1.apk) `15.8MB`
+
+- 📱 [mhrv-rs-android-universal-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.1.apk) `39.0MB`
+
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
+
+---
+
+
 ### 📅 2026-04-29 18:53 IR
 - 🎬 [گپی در مورد امنیت استفاده از بله بخصوص برای خارج نشین‌ها.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/%DA%AF%D9%BE%DB%8C%20%D8%AF%D8%B1%20%D9%85%D9%88%D8%B1%D8%AF%20%D8%A7%D9%85%D9%86%DB%8C%D8%AA%20%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87%20%D8%A7%D8%B2%20%D8%A8%D9%84%D9%87%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%A7%D8%B1%D8%AC%20%D9%86%D8%B4%DB%8C%D9%86%E2%80%8C%D9%87%D8%A7.mp4) `52.5MB`
 
