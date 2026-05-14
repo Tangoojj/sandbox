@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 07:04 IR
+- 🗜️ [MasterDnsVPN_Client_Windows_ARM64.zip](https://github.com/Tangoojj/sandbox/raw/main/dl/MasterDnsVPN_Client_Windows_ARM64.zip) `3.7MB`
+
+---
+
+
 ### 📅 2026-05-01 13:47 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.4.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.4.apk) `18.1MB`
 
